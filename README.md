@@ -1,17 +1,16 @@
-# Grok Glasses
+# Grock Glasses
 
-Android app for voice interaction with Grok API using Hey Grok wake word.
+Android app for Grok with Meta Glasses integration.
 
 ## Features
-- Persistent memory (saves everything you teach it)
-- API key settings with test button
-- Manual memory insert button
-- Wake word "Hey Grok"
-- Meta Glasses Bluetooth connect button
-- Background listening support
+- Hey Grok wake word
+- Persistent memory
+- API key settings
+- Meta Glasses Bluetooth connect
 
-## How to build
+## Build Instructions
 1. Clone the repo
 2. Open in Android Studio
-3. Add your xAI API key
-4. Build APK
+3. Build APK
+
+Next features coming soon.
