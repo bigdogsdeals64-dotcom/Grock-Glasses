@@ -1,17 +1,12 @@
 # Grock Glasses
 
-Native Android app for Grok AI with persistent memory and Meta Glasses integration.
+Android app for Grok with Meta Glasses integration, persistent memory, and wake word.
 
 ## Features
-- "Hey Grok" wake word (background listening)
-- Persistent memory storage
-- API key management
-- Manual memory input
-- Meta Glasses Bluetooth connect button
+- "Hey Grok" wake word (background capable)
+- Persistent memory across sessions
+- API key settings + test
+- Meta Glasses Bluetooth connection
+- Manual memory insert
 
-## How to build
-1. Clone the repo
-2. Open in Android Studio
-3. Build APK
-
-More files coming soon.
+Built with Kotlin + Jetpack Compose for modern Android.
