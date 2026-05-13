@@ -1,0 +1,2 @@
+rootProject.name = "Grock Glasses"
+include ":app"
